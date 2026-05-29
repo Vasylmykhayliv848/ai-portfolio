@@ -1,3 +1,5 @@
+<img width="1792" height="991" alt="image" src="https://github.com/user-attachments/assets/7844d2c4-c564-431e-a1ba-10ea381ebaf9" />
+
 # 🤖 AI Developer Portfolio
 
 Hello! I'm Vasylmykhayliv848.
